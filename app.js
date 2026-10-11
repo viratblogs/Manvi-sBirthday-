@@ -468,12 +468,12 @@
      --------------------------------------------------------- */
   const LETTER = [
     'Happy Birthday, Manvi! 🌷',
-    'You are one of those rare people who can be incredibly intelligent, unexpectedly funny, and ridiculously cute at the same time.',
-    'I hope this new chapter of your life brings you closer to all the dreams you\'re working towards. And about that big entrepreneur dream of yours — I genuinely believe you can make it happen.',
-    'There will be difficult days, but I hope you never forget how much potential you have.',
-    'Keep creating, keep dreaming, keep laughing at your own silly jokes, and please consider revealing those mysterious singing and dancing talents someday. 😂',
-    'No matter how big your dreams become or how far life takes you, I genuinely wish to see you happy, growing, and becoming the person you dream of being.',
-    'And whenever you need someone to cheer you on, remember that I\'ll always be wishing the best for you.',
+    'I hope this new year of your life brings you closer to every dream you’re working so hard for. May you achieve everything you’ve imagined for yourself, and may life give you plenty of reasons to smile along the way. ✨',
+    'Keep growing, keep exploring, keep being the person you are—and please don’t forget to take care of yourself in between all those goals, assignments, exams and your endless overthinking. 😂',
+    'I’m genuinely happy that our paths crossed. From random conversations to sharing little things, somehow you became a really special part of my life. And yes… "Jodhpur + Raj Kachori is still pending. 😌😂',
+    'I pray that you get all the happiness, success, peace and beautiful experiences you deserve. May you always have the courage to choose what makes you happy and the strength to achieve everything you truly want.',
+    'And just remember, I’ll always be here to support you and stand by you through every phase of your life—whether things are going perfectly or life gets a little difficult. You’ll always have someone quietly cheering for you. ❤️',
+    'Stay happy, stay crazy, keep that beautiful smile, and keep flying freely. 🕊️',
     'Happiest Birthday, Manvi. You deserve so many wonderful things. 🤍'
   ];
   let typing = false;
